@@ -9,3 +9,8 @@ const DB_CHARSET = "utf8mb4";
 
 // paramètres supplémentaires pour PDO
 const DB_TYPE = "mysql"; // valable pour MySQL et/ou MariaDB
+
+
+
+
+

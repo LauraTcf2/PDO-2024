@@ -1,0 +1,15 @@
+#buttonPage{
+    width: 200px;
+    padding: .5rem .25rem .5rem .25rem;
+    color: white;
+    font-weight: bold;
+    background-color: rgb(67, 67, 255);
+    cursor: pointer;
+    border-radius: 5px;
+    border: 1px solid blue;
+    transition: background-color .5s ease-in-out;
+}
+
+#buttonPage:hover{
+    background-color: rgb(255, 100, 227);
+}
